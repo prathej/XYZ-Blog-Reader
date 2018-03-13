@@ -1,0 +1,16 @@
+<resources>
+    <declare-styleable name="DrawInsetsFrameLayout">
+        <attr name="insetBackground" format="color|reference" />
+    </declare-styleable>
+
+
+    <declare-styleable name="listPreferredItemPaddingStart">
+        <attr name="listPreferredItemPaddingStart" />
+        <attr name="android:listPreferredItemPaddingStart" />
+    </declare-styleable>
+
+    <declare-styleable name="listPreferredItemPaddingEnd">
+        <attr name="listPreferredItemPaddingEnd" />
+        <attr name="android:listPreferredItemPaddingEnd" />
+    </declare-styleable>
+</resources>
